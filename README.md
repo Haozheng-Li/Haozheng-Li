@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Haozheng-Li
+- A case western reserve university student, a programmer with experience of game development and IoT-system development, and a crazy skier.
+- I'm very happy to invite you to visit [my blog](https://haozhengblog.com/).
 
-<!---
-Haozheng-Li/Haozheng-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
